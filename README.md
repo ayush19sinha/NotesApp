@@ -13,13 +13,14 @@ The Notes App is a simple Android application that allows users to manage their 
 
 ## Screenshots
 
-<img src = "https://github.com/user-attachments/assets/a89eb2b5-cf01-4d9d-99c6-e2108220f126" width = "180">
-<img src = "https://github.com/user-attachments/assets/1a518a56-fda6-473c-98df-b1c6966d1155" width = "180">
-<img src = "https://github.com/user-attachments/assets/40d3039f-615f-42b6-8bf1-d599ccf69342" width = "180">
-<img src = "https://github.com/user-attachments/assets/1cb57819-6f05-4a31-88bb-3104bdb16254" width = "180">
-<img src = "https://github.com/user-attachments/assets/a3807906-04b1-4f79-8f42-503b210d3b4e" width = "180">
-<img src = "https://github.com/user-attachments/assets/388e41e3-3c69-4f8a-88d8-6b7f73984a44" width = "180">
-<img src = "https://github.com/user-attachments/assets/a463e78e-a218-4ef6-b679-c075ba4d26e5" width = "180">
+<img src = "https://github.com/ayush19sinha/NotesApp/blob/main/Screenshots/Register.png" width = "180">
+<img src = "https://github.com/ayush19sinha/NotesApp/blob/main/Screenshots/Login%20new.png" width = "180">
+<img src = "https://github.com/ayush19sinha/NotesApp/blob/main/Screenshots/Empty%20screen%20new.png" width = "180">
+<img src = "https://github.com/ayush19sinha/NotesApp/blob/main/Screenshots/Add%20Edit%20Notess.png" width = "180">
+<img src = "https://github.com/ayush19sinha/NotesApp/blob/main/Screenshots/note.png" width = "180">
+<img src = "https://github.com/ayush19sinha/NotesApp/blob/main/Screenshots/search%20result.png" width = "180">
+<img src = "https://github.com/ayush19sinha/NotesApp/blob/main/Screenshots/no%20search%20result.png" width = "180">
+<img src = "https://github.com/ayush19sinha/NotesApp/blob/main/Screenshots/Made%20with.png" width = "180">
 
 
 
