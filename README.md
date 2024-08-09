@@ -13,14 +13,14 @@ The Notes App is a simple Android application that allows users to manage their 
 
 ## Screenshots
 
-<img src = "https://github.com/ayush19sinha/NotesApp/blob/main/Screenshots/Register.png" width = "180">
-<img src = "https://github.com/ayush19sinha/NotesApp/blob/main/Screenshots/Login%20new.png" width = "180">
-<img src = "https://github.com/ayush19sinha/NotesApp/blob/main/Screenshots/Empty%20screen%20new.png" width = "180">
-<img src = "https://github.com/ayush19sinha/NotesApp/blob/main/Screenshots/Add%20Edit%20Notess.png" width = "180">
-<img src = "https://github.com/ayush19sinha/NotesApp/blob/main/Screenshots/note.png" width = "180">
-<img src = "https://github.com/ayush19sinha/NotesApp/blob/main/Screenshots/search%20result.png" width = "180">
-<img src = "https://github.com/ayush19sinha/NotesApp/blob/main/Screenshots/no%20search%20result.png" width = "180">
-<img src = "https://github.com/ayush19sinha/NotesApp/blob/main/Screenshots/Made%20with.png" width = "180">
+<img src = "https://github.com/user-attachments/assets/b8cfa77f-4ea2-4ad2-b215-56d6ecbb6024" width = "180">
+<img src = "https://github.com/user-attachments/assets/b3945d26-9c54-4dc3-ae3e-925a61f6a5ea" width = "180">
+<img src = "https://github.com/user-attachments/assets/7342d649-ca11-46ed-ba45-57b90d913d59" width = "180">
+<img src = "https://github.com/user-attachments/assets/3bd23b24-c7a2-4a41-9eb6-3afbd3184294" width = "180">
+<img src = "https://github.com/user-attachments/assets/faa15305-d0cb-4136-b406-3832dc1d5159" width = "180">
+<img src = "https://github.com/user-attachments/assets/e7715971-3dec-4a30-b11b-8a514083227a" width = "180">
+<img src = "https://github.com/user-attachments/assets/6cf05ddf-71f7-40e8-b887-29c511daf9ce" width = "180">
+<img src = "https://github.com/user-attachments/assets/0915f0de-77b3-4e1d-aa76-6d9b06aba023" width = "180">
 
 
 
