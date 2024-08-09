@@ -28,7 +28,7 @@ The Notes App is a simple Android application that allows users to manage their 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/ayush19sinha/notes-app.git
+    git clone https://github.com/ayush19sinha/NotesApp.git
     cd notes-app
     ```
 
