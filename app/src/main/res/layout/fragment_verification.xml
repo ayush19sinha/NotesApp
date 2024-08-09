@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.fragments.SignupFragment">
+
+    <data>
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/black"
+        android:padding="@dimen/layout_padding">
+
+        <TextView
+            android:id="@+id/textViewWelcome"
+            style="@style/WelcomeTextStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_large"
+            android:text="@string/verification"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textViewMessage"
+            style="@style/TextStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_medium"
+            android:text="@string/verification_message"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/textViewWelcome" />
+
+
+        <EditText
+            android:id="@+id/OTP1"
+            style="@style/EditTextStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLength="1"
+            android:inputType="number"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@id/OTP2"
+            app:layout_constraintHorizontal_chainStyle="packed"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.288" />
+
+        <EditText
+            android:id="@+id/OTP2"
+            style="@style/EditTextStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLength="1"
+            android:inputType="number"
+            android:layout_marginStart="16dp"
+            app:layout_constraintEnd_toStartOf="@id/OTP3"
+            app:layout_constraintStart_toEndOf="@id/OTP1"
+            app:layout_constraintTop_toTopOf="@id/OTP1" />
+
+
+        <EditText
+            android:id="@+id/OTP3"
+            style="@style/EditTextStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLength="1"
+            android:inputType="number"
+            android:layout_marginStart="16dp"
+            app:layout_constraintEnd_toStartOf="@id/OTP4"
+            app:layout_constraintStart_toEndOf="@id/OTP2"
+            app:layout_constraintTop_toTopOf="@id/OTP1" />
+
+        <EditText
+            android:id="@+id/OTP4"
+            style="@style/EditTextStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLength="1"
+            android:inputType="number"
+            android:layout_marginStart="16dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/OTP3"
+            app:layout_constraintTop_toTopOf="@id/OTP1" />
+
+        <TextView
+            android:id="@+id/textViewOtpInfo"
+            style="@style/TextStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="92dp"
+            android:text="@string/no_otp"
+            android:textSize="16sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/OTP1" />
+
+        <TextView
+            android:id="@+id/textViewResendOtp"
+            style="@style/TextLinkStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="92dp"
+            android:text="@string/resend_otp"
+            android:textSize="16sp"
+            app:layout_constraintStart_toEndOf="@id/textViewOtpInfo"
+            app:layout_constraintTop_toBottomOf="@id/OTP4" />
+
+        <android.widget.Button
+            android:id="@+id/buttonContinue"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/str_continue"
+            android:background="@drawable/button_background"
+            android:textColor="@color/white"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/textViewOtpInfo"
+            android:layout_marginTop="@dimen/margin_large" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

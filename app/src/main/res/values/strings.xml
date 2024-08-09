@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="sign_in_message">Sign in to the app using Google</string>
+    <string name="empty_notes_image">Empty Notes Image</string>
+    <string name="app_info">Made with ⚡ by Ayush</string>
+    <string name="no_search_result_image">No Search result image</string>
+    <string name="not_found_text">Note not found. Try searching again.</string>
+    <string name="welcome_message">Welcome Back! Glad to see you, Again!</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="forgot_password">Forget Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="or_login_with">Or Login with</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="register_now">Register Now</string>
+    <string name="signup_welcome_message">Create an Account</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="or_signup_with">Or Sign Up with</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="verification">Verification</string>
+    <string name="verification_message">Enter the 4 digits code that you received on your email</string>
+    <string name="reset_message">Enter the email associated with your account and we\'ll send an email instruction to reset your password.</string>
+    <string name="example_email">example@gmail.com</string>
+    <string name="str_continue">Continue</string>
+    <string name="no_otp">Didn\'t received the OTP?</string>
+    <string name="first_note_message">Create your first note</string>
+    <string name="add_note">Add Note</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="type_something">Type Something…</string>
+    <string name="login_illustration">Login Illustration</string>
+    <string name="info">Info</string>
+    <string name="search">Search</string>
+    <string name="logout">Logout</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="share">Share</string>
+    <string name="menu_item">Menu item</string>
+    <string name="delete">Delete</string>
+    <string name="str_null">null</string>
+</resources>
+
+
